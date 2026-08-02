@@ -53,6 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,12 @@ This project is licensed under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
