@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
