@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
