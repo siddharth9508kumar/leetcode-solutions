@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/siddharth9508kumar/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
